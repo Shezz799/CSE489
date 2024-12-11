@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\raw_duck_quack.mp4.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\raw\\duck_quack.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\drawable_vinyl_record.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\drawable\\vinyl_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\raw_imaginary.mp3.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\raw\\imaginary.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\drawable_red_pin.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\drawable\\red_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\layout_marker_info_window.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\layout\\marker_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\drawable_duck_cute.jpg.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\drawable\\duck_cute.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-debug-68:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shehzad\\.gradle\\daemon\\8.9\\com.example.broadcastdemo.app-main-70:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

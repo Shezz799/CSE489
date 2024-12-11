@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#6B9EBF</color>
+    <string name="app_name">Broadcast Demo</string>
+    <style name="Theme.BroadcastDemo" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
